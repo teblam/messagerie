@@ -20,4 +20,25 @@
 
 h1, button {
     margin: 10px auto;
+}
+
+/* Style de base pour tous les messages */
+.texte {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 2px;
+}
+
+/* Style pour les messages à droite */
+.droite {
+    border: 1px solid #00FF00;
+    background-color: #AAFFA0;
+    margin-left: 100px;
+}
+
+/* Style pour les messages à gauche */
+.gauche {
+    border: 1px solid #0000FF;
+    background-color: #AAAAFF;
+    margin-right: 100px;
 } 
